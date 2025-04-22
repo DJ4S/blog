@@ -1,0 +1,2 @@
+# blog
+Entrada blog divulgativo
