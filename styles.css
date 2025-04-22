@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Exo+2:wght@400;600;700&display=swap');
+
+/*
+font-family: 'Bungee', sans-serif;
+font-family: 'Exo 2', sans-serif;
+*/
+
+/* CSS HEX 
+--gunmetal: #092327ff;
+--dark-slate-gray: #0b5351ff;
+--air-force-blue: #4e8098ff;
+--light-sea-green: #00a9a5ff;
+--light-sky-blue: #90c2e7ff;
+*/
+
+html{
+  height: 100%;
+  min-width: 100%;
+  margin: 0;
+  font-size: 16px;
+}
+
+body{
+  background-color: hsla(36, 31%, 90%, 1);
+  height: 100%;
+  min-width: 100%;
+  margin: 0;
+}
+
+.articulo{
+  width: 60%;
+  margin: 0 auto;
+  text-align: justify;
+  font-family: 'Exo 2', sans-serif;
+}
+.texto{
+  font-family: 'Exo 2', sans-serif;
+  text-align: center;
+  width:64%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+p{
+  font-family: 'Exo 2', sans-serif;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+.subtitulo{
+  font-family: 'Exo 2', sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
