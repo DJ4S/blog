@@ -36,7 +36,7 @@ body{
 .texto{
   font-family: 'Exo 2', sans-serif;
   text-align: center;
-  width:64%;
+  width: 60%;
   margin: 0 auto;
   margin-top: 50px;
 }
@@ -45,6 +45,7 @@ p{
   font-family: 'Exo 2', sans-serif;
   text-align: justify;
   margin: 0 auto;
+  width: 60%;
 }
 
 .subtitulo{
